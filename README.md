@@ -18,5 +18,5 @@
 | 백준 | 22.04.25 | 그리디 | [등수 매기기](https://www.acmicpc.net/problem/2012) | 실버3 | [🙆🏻‍♀️](수정/Greedy/BOJ2012.md) | [🙆🏻‍♂️](지석/Greedy/BOJ2012.md) |
 | 백준 | 22.04.26 | 그리디 | [이장님 초대](https://www.acmicpc.net/problem/9237) | 실버5 | [🙆🏻‍♀️](수정/Greedy/BOJ9237.md) | [🙆🏻‍♂️](지석/Greedy/BOJ9237.md) |
 | 백준 | 22.04.27 | 그리디 | [물병](https://www.acmicpc.net/problem/1052) | 실버1 | [🙆🏻‍♀️](수정/Greedy/BOJ1052.md) | [🙆🏻‍♂️](지석/Greedy/BOJ1052.md) |
-| 백준 | 22.04.28 | 그리디 | [센서](https://www.acmicpc.net/problem/2212) | 골드5 |  | [🙆🏻‍♂️](지석/Greedy/BOJ2212.md) |
-| 백준 | 22.04.29 | 그리디 | [삼각형 만들기](https://www.acmicpc.net/problem/1448) | 실버3 |  |  |
+| 백준 | 22.04.28 | 그리디 | [센서](https://www.acmicpc.net/problem/2212) | 골드5 | [🙆🏻‍♀️](수정/Greedy/BOJ2212.md) | [🙆🏻‍♂️](지석/Greedy/BOJ2212.md) |
+| 백준 | 22.04.29 | 그리디 | [삼각형 만들기](https://www.acmicpc.net/problem/1448) | 실버3 | [🙆🏻‍♀️](수정/Greedy/BOJ1448.md) |  |
