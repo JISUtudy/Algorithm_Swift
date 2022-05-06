@@ -25,4 +25,4 @@
 | 백준 | 22.05.03 | BFS | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | 실버2 | - | [🙆🏻‍♂️](지석/Graph-Theory/BOJ24444.md) |
 | 백준 | 22.05.04 | BFS | [바이러스](https://www.acmicpc.net/problem/2606) | 실버3 | [🙆🏻‍♀️](수정/Graph-Theory/BOJ2606.md) | [🙆🏻‍♂️](지석/Graph-Theory/BOJ2606.md) |
 | 백준 | 22.05.05 | 그리디(보충) | [물병](https://www.acmicpc.net/problem/1052) | 실버1 | - | - |
-| 백준 | 22.05.06 | BFS | [데스 나이트](https://www.acmicpc.net/problem/16948) | 실버1 | - | - |
+| 백준 | 22.05.06 | BFS | [데스 나이트](https://www.acmicpc.net/problem/16948) | 실버1 | - | [🙆🏻‍♂️](지석/Graph-Theory/BOJ16948.md) |
