@@ -9,20 +9,21 @@
 
 ### 👀 지난 문제 모아보기
 - [4월 문제](모아보기/4월문제.md)
+- [5월 문제](모아보기/5월문제.md)
 
 </br>
 
 # 🗓 5월
 ### 📚 주차별 알고리즘 주제 & 문제 선정
-    • 1주차 ~ 4주차
-        • Breadth-first Search(너비 우선 탐색) → 1주차(적응주)에만 1일 1문제, 2주차부터 ~ 1일 2문제
+    • 2주차
+        • 스택/큐 + 재귀 → 1일 1문제
 
 
 ### ✏️ 문제풀이
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
-| 백준 | 22.05.02 | 그래프 이론 | [죽음의 게임](https://www.acmicpc.net/problem/17204) | 실버3 | [🙆🏻‍♀️](수정/Graph-Theory/BOJ17204.md) |  [🙆🏻‍♂️](지석/Graph-Theory/BOJ17204.md) |
-| 백준 | 22.05.03 | BFS | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | 실버2 | - | [🙆🏻‍♂️](지석/Graph-Theory/BOJ24444.md) |
-| 백준 | 22.05.04 | BFS | [바이러스](https://www.acmicpc.net/problem/2606) | 실버3 | [🙆🏻‍♀️](수정/Graph-Theory/BOJ2606.md) | [🙆🏻‍♂️](지석/Graph-Theory/BOJ2606.md) |
-| 백준 | 22.05.05 | 그리디(보충) | [물병](https://www.acmicpc.net/problem/1052) | 실버1 | - | - |
-| 백준 | 22.05.06 | BFS | [데스 나이트](https://www.acmicpc.net/problem/16948) | 실버1 | [🙆🏻‍♀️](수정/Graph-Theory/BOJ16948.md) | [🙆🏻‍♂️](지석/Graph-Theory/BOJ16948.md) |
+| 프로그래머스 | 22.05.09 | 스택/큐 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Level 2 | - |  - |
+| 프로그래머스 | 22.05.10 | 스택/큐 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Level 2 | - | - |
+| 프로그래머스 | 22.05.11 | 스택/큐 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | Level 2 | - | - |
+| 프로그래머스 | 22.05.12 | 스택/큐 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | Level 2 | - | - |
+| 백준 | 22.05.13 | 재귀 | [완전 이진 트리](https://www.acmicpc.net/problem/9934) | 실버 1 | - | - |
