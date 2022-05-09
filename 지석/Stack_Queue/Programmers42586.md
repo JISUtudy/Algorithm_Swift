@@ -11,7 +11,7 @@
 ## 접근🚶🏻
 ### 나의 생각 ▾
 - 걸리는 작업의 일 수를 먼저 구해보기로 했다.
-- 작업이 걸리는 시간은 `(100 - progresses) / speeds`라고 정의했다.
+- 작업이 걸리는 시간은 `(100 - progresses - 1) / speeds + 1`라고 정의했다.
 - 작업의 걸리는 시간을 배열에 담아 첫 원소보다 작을 경우 `count`를 누적시켜주고, 클 경우 `count`를 `result`배열에 담아 리턴하기로 했다.
 
 </br>
@@ -25,15 +25,8 @@ func solution(_ progresses: [Int], _ speeds: [Int]) -> [Int] {
     var count: Int = 1
     var result = [Int]()
     
-    for i in 0..<progresses.count {
-        let v1 = (100 - progresses[i]) % speeds[i]
-        let v2 = (100 - progresses[i]) / speeds[i]
-        
-        if v1 != 0 {
-            valueList.append(v2 + 1)
-        } else {
-            valueList.append(v2)
-        }
+    for idx in 0..<progresses.count {
+        valueList.append((100-progresses[idx] - 1) / speeds[idx] + 1)
     }
     
     var value = valueList.removeFirst()
