@@ -25,5 +25,5 @@
 | 프로그래머스 | 22.05.09 | 스택/큐 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Level 2 | [🙆🏻‍♀️](/수정/Stack_Queue/Programmers42586.md) | [🙆🏻‍♂️](지석/Stack_Queue/Programmers42586.md) |
 | 프로그래머스 | 22.05.10 | 스택/큐 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Level 2 | [🙆🏻‍♀️](/수정/Stack_Queue/Programmers42587.md) | [🙆🏻‍♂️](지석/Stack_Queue/Programmers42587.md) |
 | 프로그래머스 | 22.05.11 | 스택/큐 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | Level 2 | [🙆🏻‍♀️](/수정/Stack_Queue/Programmers42583.md) | [🙆🏻‍♂️](지석/Stack_Queue/Programmers42583.md) |
-| 백준 | 22.05.12 | 스택 | [과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952) | 실버 3 | [🙆🏻‍♀️](/수정/Stack_Queue/BOJ17952.md) | - |
+| 백준 | 22.05.12 | 스택 | [과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952) | 실버 3 | [🙆🏻‍♀️](/수정/Stack_Queue/BOJ17952.md) | [🙆🏻‍♂️](지석/Stack_Queue/BOJ17952.md) |
 | 백준 | 22.05.13 | 재귀 | [완전 이진 트리](https://www.acmicpc.net/problem/9934) | 실버 1 | - | - |
