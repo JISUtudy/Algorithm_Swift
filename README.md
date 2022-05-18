@@ -26,6 +26,6 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 백준 | 22.05.16 | 재귀 | [트리 순회](https://www.acmicpc.net/problem/1991) | 실버 1 | [🙆🏻‍♀️](수정/Recursion/BOJ1991.md) |  |
 | 백준 | 22.05.17 | 재귀 | [카드 놓기](https://www.acmicpc.net/problem/5568) | 실버 4 | [🙆🏻‍♀️](수정/Recursion/BOJ5568.md) | [🙆🏻‍♂️](지석/Recursion/BOJ5568.md) |
-| 백준 | 22.05.18 | 재귀 | [하노이 탑](https://www.acmicpc.net/problem/1914) | 실버 2 |  |  |
+| 백준 | 22.05.18 | 재귀 | [하노이 탑](https://www.acmicpc.net/problem/1914) | 실버 2 |  | [🙆🏻‍♂️](지석/Recursion/BOJ1914.md) |
 | 백준 | 22.05.19 | DP | [계단 오르기](https://www.acmicpc.net/problem/2579) | 실버 3 |  |  |
 | 백준 | 22.05.20 | DP | [평범한 배낭](https://www.acmicpc.net/problem/12865) | 골드 5 |  |  |
