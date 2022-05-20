@@ -18,14 +18,15 @@
 
 # 🗓 5월
 ### 📚 주차별 알고리즘 주제 & 문제 선정
-    • 3주차 - 재귀 3일 + DP 2일
+    • 4주차: 큐
 
 
 ### ✏️ 문제풀이
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
-| 백준 | 22.05.16 | 재귀 | [트리 순회](https://www.acmicpc.net/problem/1991) | 실버 1 | [🙆🏻‍♀️](수정/Recursion/BOJ1991.md) |  |
-| 백준 | 22.05.17 | 재귀 | [카드 놓기](https://www.acmicpc.net/problem/5568) | 실버 4 | [🙆🏻‍♀️](수정/Recursion/BOJ5568.md) | [🙆🏻‍♂️](지석/Recursion/BOJ5568.md) |
-| 백준 | 22.05.18 | 재귀 | [하노이 탑](https://www.acmicpc.net/problem/1914) | 실버 2 | [🙆🏻‍♀️](수정/Recursion/BOJ1914.md) | [🙆🏻‍♂️](지석/Recursion/BOJ1914.md) |
-| 백준 | 22.05.19 | DP | [계단 오르기](https://www.acmicpc.net/problem/2579) | 실버 3 | [🙆🏻‍♀️](수정/Dynamic-Programming/BOJ2579.md) | [🙆🏻‍♂️](지석/Dynamic-Programming/BOJ2579.md) |
-| 백준 | 22.05.20 | DP | [평범한 배낭](https://www.acmicpc.net/problem/12865) | 골드 5 |  |  |
+| 백준 | 22.05.23 | 큐 | [카드1](https://www.acmicpc.net/problem/2161) | 브론즈 1 |  |  |
+| 백준 | 22.05.24 | 큐 | [최소 힙](https://www.acmicpc.net/problem/1927) | 실버 2 |  |  |
+| 백준 | 22.05.25 | 큐 | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | 실버 1 |  |  |
+| 백준 | 22.05.26 | 큐 | [최대 힙](https://www.acmicpc.net/problem/11279) | 실버 2 |  |  |
+| 백준 | 22.05.27 | 큐 | [절댓값 힙](https://www.acmicpc.net/problem/11286) | 실버 1 |  |  |
+
