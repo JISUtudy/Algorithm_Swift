@@ -25,7 +25,7 @@
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 백준 | 22.05.23 | 큐 | [카드1](https://www.acmicpc.net/problem/2161) | 브론즈 1 | [🙆🏻‍♀️](수정/Stack_Queue/BOJ2161.md) | [🙆🏻‍♂️](지석/Stack_Queue/BOJ2161.md) |
-| 백준 | 22.05.24 | 큐 | [최소 힙](https://www.acmicpc.net/problem/1927) | 실버 2 |  |  |
+| 백준 | 22.05.24 | 큐 | [최소 힙](https://www.acmicpc.net/problem/1927) | 실버 2 |  | [🙆🏻‍♂️](지석/Stack_Queue/BOJ1927.md) |
 | 백준 | 22.05.25 | 큐 | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | 실버 1 |  |  |
 | 백준 | 22.05.26 | 큐 | [최대 힙](https://www.acmicpc.net/problem/11279) | 실버 2 |  |  |
 | 백준 | 22.05.27 | 큐 | [절댓값 힙](https://www.acmicpc.net/problem/11286) | 실버 1 |  |  |
