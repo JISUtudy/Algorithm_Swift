@@ -25,7 +25,7 @@
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 백준 | 22.05.23 | 큐 | [카드1](https://www.acmicpc.net/problem/2161) | 브론즈 1 | [🙆🏻‍♀️](수정/Stack_Queue/BOJ2161.md) | [🙆🏻‍♂️](지석/Stack_Queue/BOJ2161.md) |
-| 백준 | 22.05.24 | 브루트포스 | [사과와 바나나 나눠주기](https://www.acmicpc.net/problem/14914) | 브론즈 1 |  | [🙆🏻‍♂️](지석/Brute-Force/BOJ14914.md) |
+| 백준 | 22.05.24 | 브루트포스 | [사과와 바나나 나눠주기](https://www.acmicpc.net/problem/14914) | 브론즈 1 | [🙆🏻‍♀️](수정/Brute-Force/BOJ14914.md) | [🙆🏻‍♂️](지석/Brute-Force/BOJ14914.md) |
 | 백준 | 22.05.25 | 브루트포스 | [공약수](https://www.acmicpc.net/problem/5618) | 브론즈 3 |  | [🙆🏻‍♂️](지석/Brute-Force/BOJ5618.md) |
 | 백준 | 22.05.26 | 브루트포스 | [덩치](https://www.acmicpc.net/problem/7568) | 실버 5 |  |  |
 | 백준 | 22.05.27 | 브루트포스 | [숫자 야구](https://www.acmicpc.net/problem/2503) | 실버 4 |  |  |
