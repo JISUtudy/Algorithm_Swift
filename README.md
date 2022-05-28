@@ -28,5 +28,4 @@
 | 백준 | 22.05.24 | 브루트포스 | [사과와 바나나 나눠주기](https://www.acmicpc.net/problem/14914) | 브론즈 1 | [🙆🏻‍♀️](수정/Brute-Force/BOJ14914.md) | [🙆🏻‍♂️](지석/Brute-Force/BOJ14914.md) |
 | 백준 | 22.05.25 | 브루트포스 | [공약수](https://www.acmicpc.net/problem/5618) | 브론즈 3 | [🙆🏻‍♀️](수정/Brute-Force/BOJ5618.md) | [🙆🏻‍♂️](지석/Brute-Force/BOJ5618.md) |
 | 백준 | 22.05.26 | 브루트포스 | [덩치](https://www.acmicpc.net/problem/7568) | 실버 5 | [🙆🏻‍♀️](수정/Brute-Force/BOJ7568.md) | [🙆🏻‍♂️](지석/Brute-Force/BOJ7568.md) |
-| 백준 | 22.05.27 | 브루트포스 | [전자레인지](https://www.acmicpc.net/problem/10162) | 브론즈 4 |  | [🙆🏻‍♂️](지석/Brute-Force/BOJ10162.md) |
-
+| 백준 | 22.05.27 | 브루트포스 | [전자레인지](https://www.acmicpc.net/problem/10162) | 브론즈 4 | [🙆🏻‍♀️](수정/Brute-Force/BOJ10162.md) | [🙆🏻‍♂️](지석/Brute-Force/BOJ10162.md) |
