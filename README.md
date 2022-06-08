@@ -26,6 +26,6 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 백준 | 22.06.06 | DFS | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실버 2 | [🙆🏻‍♀️](수정/Graph-Theory/BOJ11724.md) | [🙆🏻‍♂️](지석/Graph-Theory/BOJ11724.md) |
 | 백준 | 22.06.07 | DFS | [나이트의 이동](https://www.acmicpc.net/problem/7562) | 실버 1 | [🙆🏻‍♀️](수정/Graph-Theory/BOJ7562.md) |  |
-| 백준 | 22.06.08 | DFS | [영역 구하기](https://www.acmicpc.net/problem/2583) | 실버 1 |  |  |
+| 백준 | 22.06.08 | DFS | [영역 구하기](https://www.acmicpc.net/problem/2583) | 실버 1 | [🙆🏻‍♀️](수정/Graph-Theory/BOJ2583.md) |  |
 | 백준 | 22.06.09 | DFS | [적록색약](https://www.acmicpc.net/problem/10026) | 골드 5 |  |  |
 | 백준 | 22.06.10 | DFS | [부분수열의 합](https://www.acmicpc.net/problem/1182) | 실버 2 |  |  |
