@@ -25,7 +25,7 @@
 ### ✏️ 문제풀이
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
-| 백준 | 22.06.13 | DFS & BFS | [미로 탐색](https://www.acmicpc.net/problem/2178) | 실버 1 | - | - |
+| 백준 | 22.06.13 | DFS & BFS | [미로 탐색](https://www.acmicpc.net/problem/2178) | 실버 1 | - | [🙆🏻‍♂️](지석/Graph-Theory/BOJ2178.md) |
 | 백준 | 22.06.14 | DFS & BFS | [음식물 피하기](https://www.acmicpc.net/problem/1743) | 실버 1 | - | - |
 | 백준 | 22.06.15 | DFS & BFS | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 실버 1 | - | - |
 | 백준 | 22.06.16 | DFS & BFS | [숨바꼭질](https://www.acmicpc.net/problem/1697) | 실버 1 | - | - |
