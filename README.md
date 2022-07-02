@@ -26,7 +26,7 @@
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 백준 | 22.06.27 | 시뮬레이션 | [사탕 게임](https://www.acmicpc.net/problem/3085) | 실버 3 | [🙆🏻‍♀️](수정/Simulation/BOJ3085.md) | [🙆🏻‍♂️](지석/Simulation/BOJ3085.md) |
-| 백준 | 22.06.28 | 시뮬레이션 | [뱀](https://www.acmicpc.net/problem/3190) | 골드 4 | [-]() | [🙆🏻‍♂️](지석/Simulation/BOJ3190.md) |
+| 백준 | 22.06.28 | 시뮬레이션 | [뱀](https://www.acmicpc.net/problem/3190) | 골드 4 | [🙆🏻‍♀️](수정/Simulation/BOJ3190.md) | [🙆🏻‍♂️](지석/Simulation/BOJ3190.md) |
 | 백준 | 22.06.29 | 시뮬레이션 | [인구 이동](https://www.acmicpc.net/problem/16234) | 골드 5 | [-]() | [🙆🏻‍♂️](지석/Simulation/BOJ16234.md) |
 | 백준 | 22.06.30 | 시뮬레이션 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | 골드 4 | [-]() | [-]() |
 | 백준 | 22.07.01 | 시뮬레이션 | [감시](https://www.acmicpc.net/problem/15683) | 골드 4 | [-]() | [-]() |
