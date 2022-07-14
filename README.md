@@ -26,5 +26,5 @@
 ### ✏️ 문제풀이
 | 카테고리 | 주차 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
-| 프로그래머스 | 2주차 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Level 1 | [-](-) | [🙆🏻‍♂️](지석/Implementation/Programmers77484.md) |
+| 프로그래머스 | 2주차 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | Level 1 | [🙆🏻‍♀️](수정/Implementation/Programmers77484.md) | [🙆🏻‍♂️](지석/Implementation/Programmers77484.md) |
 | 프로그래머스 | 2주차 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | Level 2 | [-](-) | [-](-) |
