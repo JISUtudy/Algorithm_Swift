@@ -28,5 +28,5 @@
 ### ✏️ 문제풀이
 | 카테고리 | 주차 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
-| 프로그래머스 | 3주차 | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | Level 1 | [-](-) | [🙆🏻‍♂️](지석/Implementation/Programmers67256.md) |
+| 프로그래머스 | 3주차 | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | Level 1 | [🙆🏻‍♀️](Implementation/Programmers67256.md) | [🙆🏻‍♂️](지석/Implementation/Programmers67256.md) |
 | 프로그래머스 | 3주차 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | Level 1 | [-](-) | [🙆🏻‍♂️](지석/Stack_Queue/Programmers64061.md) |
