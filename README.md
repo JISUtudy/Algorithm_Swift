@@ -29,4 +29,4 @@
 | 카테고리 | 주차 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 프로그래머스 | 4주차 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | Level 2 | [-]() | [-]() |
-| 프로그래머스 | 4주차 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | Level 1 | [-]() | [-]() |
+| 프로그래머스 | 4주차 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | Level 1 | [-]() | [🙆🏻‍♂️](지석/Dictionary/Programmers42889.md) |
