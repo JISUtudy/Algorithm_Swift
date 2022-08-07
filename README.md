@@ -29,4 +29,4 @@
 | 카테고리 | 주차 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 프로그래머스 | 1주차 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | Level 1 | [🙆🏻‍♀️](수정/Implementation/Programmers77884.md) | [🙆🏻‍♂️](지석/Implementation/Programmers77884.md) |
-| 프로그래머스 | 1주차 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | Level 2 | [🙆🏻‍♀️](수정/Dictionary/Programmers92341.md) | [-]() |
+| 프로그래머스 | 1주차 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | Level 2 | [🙆🏻‍♀️](수정/Dictionary/Programmers92341.md) | [🙆🏻‍♂️](지석/Dictionary/Programmers92341.md) |
