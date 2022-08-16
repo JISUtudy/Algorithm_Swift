@@ -23,11 +23,11 @@
 
 # 🗓 8월
 ### 📚 주차별 난이도
-    • 2주차: Level 2
+    • 3주차: Level 2
 </br>
 
 ### ✏️ 문제풀이
 | 카테고리 | 주차 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
-| 프로그래머스 | 2주차 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | Level 2 | [-]() | [🙆🏻‍♂️](지석/Implementation/Programmers72411.md) |
-| 프로그래머스 | 2주차 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | Level 2 | [-]() | [🙆🏻‍♂️](지석/Graph-Theory/Programmers81302.md) |
+| 프로그래머스 | 3주차 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Level 2 | [-]() | [-]() |
+| 프로그래머스 | 3주차 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | Level 2 | [-]() | [-]() |
