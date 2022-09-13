@@ -29,5 +29,5 @@
 ### ✏️ 문제풀이
 | 카테고리 | 주차 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
-| 프로그래머스 | 3주차 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | Level 1 | [-]() | [🙆🏻‍♂️](지석/Dictionary/Programmers118666.md) |
+| 프로그래머스 | 3주차 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | Level 1 | [🙆🏻‍♀️](수정/Dictionary/Programmers118666.md) | [🙆🏻‍♂️](지석/Dictionary/Programmers118666.md) |
 | 프로그래머스 | 3주차 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Level 2 | [-]() | [-]() |
