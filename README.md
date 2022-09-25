@@ -31,4 +31,4 @@
 | 카테고리 | 주차 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 프로그래머스 | 4주차 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Level 2 | [-]() | [🙆🏻‍♂️](지석/Implementation/Programmers12981.md) |
-| 프로그래머스 | 4주차 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | Level 2 | [-]() | [-]() |
+| 프로그래머스 | 4주차 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | Level 2 | [-]() | [🙆🏻‍♂️](지석/Dynamic-Programming/Programmers87390.md) |
