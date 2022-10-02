@@ -32,4 +32,4 @@
 | 카테고리 | 주차 | 문제 이름 | 난이도 | 수정 | 지석 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 프로그래머스 | 5주차 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883?language=swift) | Level 2 | [🙆🏻‍♀️](수정/Greedy/Programmers42883.md) | [🙆🏻‍♂️](지석/Greedy/Programmers42883.md) |
-| 프로그래머스 | 5주차 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | Level 2 | [-]() | [-]() |
+| 프로그래머스 | 5주차 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | Level 2 | [🙆🏻‍♀️](수정/String/Programmers92335.md) | [-]() |
